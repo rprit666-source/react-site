@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "64f1a2b34ac91f0012345678",
+    "name": "Prit Radadiya",
+    "email": "prit123@gmail.com",
+    "password": "$2a$10$encryptedPasswordHash",
+    "role": "user",
+    "createdAt": "2025-09-02T12:30:00Z"
+  },
+  {
+    "_id": "64f1a2b34ac91f0012345679",
+    "name": "Admin User",
+    "email": "admin@staycart.com",
+    "password": "$2a$10$encryptedAdminHash",
+    "role": "admin",
+    "createdAt": "2025-09-01T10:00:00Z"
+  },
+  {
+    "_id": "64f1a2b34ac91f0012345680",
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "password": "$2a$10$encryptedPass123",
+    "role": "user",
+    "createdAt": "2025-09-01T14:15:00Z"
+  }
+]

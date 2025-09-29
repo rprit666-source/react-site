@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "64f1a2b34ac91f0098765432",
+    "title": "Luxury Pool Farmhouse",
+    "description": "A beautiful farmhouse with private pool and garden area.",
+    "location": "Ahmedabad, Gujarat",
+    "pricePerNight": 4500,
+    "category": "Pool Farmhouse",
+    "amenities": ["WiFi", "Air Conditioning", "Swimming Pool"],
+    "ownerId": "64f1a2b34ac91f0012345678",
+    "status": "approved",
+    "createdAt": "2025-09-02T14:10:00Z"
+  },
+  {
+    "_id": "64f1a2b34ac91f0098765433",
+    "title": "Budget Friendly Stay",
+    "description": "Affordable farmhouse with basic amenities and a spacious garden.",
+    "location": "Surat, Gujarat",
+    "pricePerNight": 2000,
+    "category": "Normal Farmhouse",
+    "amenities": ["Parking", "Garden"],
+    "ownerId": "64f1a2b34ac91f0012345680",
+    "status": "pending",
+    "createdAt": "2025-09-02T15:30:00Z"
+  },
+  {
+    "_id": "64f1a2b34ac91f0098765434",
+    "title": "Premium Villa with Jacuzzi",
+    "description": "A luxurious villa equipped with Jacuzzi, WiFi, and modern interiors.",
+    "location": "Vadodara, Gujarat",
+    "pricePerNight": 7000,
+    "category": "Luxury Villa",
+    "amenities": ["WiFi", "Jacuzzi", "Parking"],
+    "ownerId": "64f1a2b34ac91f0012345679",
+    "status": "approved",
+    "createdAt": "2025-09-02T16:45:00Z"
+  }
+]
